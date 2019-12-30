@@ -1,4 +1,4 @@
-import Bits
+import vaporcore
 
 extension Data {
     /// Converts `Data` to a hex-encoded `String`.

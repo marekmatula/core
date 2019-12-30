@@ -1,4 +1,4 @@
-import Debugging
+import vaporcore
 
 /// Errors that can be thrown while working with Bits.
 public struct BitsError: Debuggable {

@@ -1,4 +1,4 @@
-import COperatingSystem
+import vaporcore
 
 /// `DirectoryConfig` represents a configured working directory. It can also be used to derive a working directory automatically.
 ///

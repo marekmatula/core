@@ -1,4 +1,5 @@
-import Bits
+import vaporcore
+
 
 extension Data {
     /// Decodes a base64-url encoded string to data.
